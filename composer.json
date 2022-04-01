@@ -1,10 +1,10 @@
 {
-    "name": "sainsburys/guzzle-oauth2-plugin",
+    "name": "avoineoy/guzzle-oauth2-plugin",
     "description": "An OAuth2 middleware for Guzzle",
     "license": "MIT",
     "require": {
-        "php": ">=5.6",
-        "guzzlehttp/guzzle": "^6.0",
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0",
         "firebase/php-jwt": "^3.0|^4.0|^5.0|^6.0"
     },
     "autoload": {
