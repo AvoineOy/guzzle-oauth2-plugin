@@ -3,8 +3,9 @@
 namespace Sainsburys\Guzzle\Oauth2\Tests;
 
 use Sainsburys\Guzzle\Oauth2\AccessToken;
+use PHPUnit\Framework\TestCase as PHPUnit_Framework_TestCase;
 
-class AccessTokenTest extends \PHPUnit_Framework_TestCase
+class AccessTokenTest extends PHPUnit_Framework_TestCase
 {
     public function testAccessTokenGetters()
     {
